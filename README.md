@@ -2,7 +2,7 @@
 ## Github Portfolio
 
 ### Coding Projects
-- LocoFoco
+- [LocoFoco](https://github.com/FocusAppGroupProj/FocusApp)
 - Search Engine
 
   ***In Development***
