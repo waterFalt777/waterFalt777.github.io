@@ -1,0 +1,16 @@
+
+---
+title: "Stephany Lam"
+image: 7-29-UCI-MSBA-366.jpg # replace with the link to your headshot
+about:
+  template: jolla # see additional templates here https://quarto.org/docs/websites/website-about.html
+  links:  # add links to your various social profiles
+    - icon: linkedin
+      text: LinkedIn
+      href: https://www.linkedin.com/in/stephany-lam
+    - icon: github
+      text: Github
+      href: https://github.com/waterFalt777
+---
+
+My goals are to grow my analytical skills, confidence, and creativity in applying them. With all my group project based experiences, I like working with teams uncovering a human focus insights from data and coming up with efficient and productive ways to bring out the best of every team member. I look forward to finding my place in the tech industry where I can enjoy working in a a and creative environment that promotes inclusivity and inspires hard-earned success. A creative side to me, is that I’m an amateur 3d modeler/animator specializing in using Blender (an open-source 3D computer graphics software). On the side, I like to make models of characters, objects, small scenes for personal or videogame projects.

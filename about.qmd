@@ -1,0 +1,18 @@
+---
+title: "About 📖"
+---
+
+
+<img src="7-29-UCI-MSBA-366.jpg" alt="Alt Text" height="300">
+
+
+# Hello! 👋
+
+My name is Stephany Lam and welcome to my 'About Me' Page O(∩_∩)O  
+
+## Who Am I?
+I'm a first gen daugther to Cambodian immigrant parents and an aspiring data analyst. With a B.S. in Business Information Management from UCI, I'm currently at my alma mater, pursuing a Master's in Business Analytics
+
+## Background
+I'm a SoCal local drawn to hikes and parks
+

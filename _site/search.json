@@ -1,0 +1,30 @@
+[
+  {
+    "objectID": "projects/index.html",
+    "href": "projects/index.html",
+    "title": "Welcome to My Projects 💻",
+    "section": "",
+    "text": "Project A"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Stephany Lam",
+    "section": "",
+    "text": "My goals are to grow my analytical skills, confidence, and creativity in applying them. With all my group project based experiences, I like working with teams uncovering a human focus insights from data and coming up with efficient and productive ways to bring out the best of every team member. I look forward to finding my place in the tech industry where I can enjoy working in a a and creative environment that promotes inclusivity and inspires hard-earned success. A creative side to me, is that I’m an amateur 3d modeler/animator specializing in using Blender (an open-source 3D computer graphics software). On the side, I like to make models of characters, objects, small scenes for personal or videogame projects."
+  },
+  {
+    "objectID": "about.html#who-am-i",
+    "href": "about.html#who-am-i",
+    "title": "About 📖",
+    "section": "Who Am I?",
+    "text": "Who Am I?\nI’m a first gen daugther to Cambodian immigrant parents and an aspiring data analyst. With a B.S. in Business Information Management from UCI, I’m currently at my alma mater, pursuing a Master’s in Business Analytics"
+  },
+  {
+    "objectID": "about.html#background",
+    "href": "about.html#background",
+    "title": "About 📖",
+    "section": "Background",
+    "text": "Background\nI’m a SoCal local drawn to hikes and parks"
+  }
+]
